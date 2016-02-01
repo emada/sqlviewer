@@ -1,0 +1,2 @@
+{"email":"bmi.machado@gmail.com","admin":true,"passhash":"$2a$10$FiRl4OR5kQk2evS99/bSG.2qpPU7vBHyzEe5.m4gtSwrkFpBGymaC","createdDate":{"$$date":1454188882802},"modifiedDate":{"$$date":1454188882802},"_id":"mHtnRxMbJE3T1E9E"}
+{"$$indexCreated":{"fieldName":"email","unique":true,"sparse":false}}
